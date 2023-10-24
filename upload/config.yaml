@@ -1,0 +1,6 @@
+access_key_id: "yyyyyyyyyyyyyyyyy"
+access_key_secret: "xxxxxxxxxxxxxxxx"
+host: "http://mmmmmmmmm.oss-cn-llllllll.aliyuncs.com"
+callback_url: "http://kk.xxx.bb.cc:8080"
+upload_dir: "downloadtest/"
+expire_time: 300
